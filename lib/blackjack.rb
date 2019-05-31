@@ -3,7 +3,8 @@ def welcome
 end
 
 def deal_card
-  prng = new
+  prng = Random.new
+  
 end
 
 def display_card_total
