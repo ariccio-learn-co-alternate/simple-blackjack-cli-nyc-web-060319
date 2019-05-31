@@ -4,7 +4,7 @@ end
 
 def deal_card
   prng = Random.new
-  
+  prng.rand(1...1)
 end
 
 def display_card_total
