@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card
-  
+  prng = new
 end
 
 def display_card_total
